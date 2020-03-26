@@ -154,3 +154,18 @@ Add MultiDex in your build.gradle file (Module app)
 
 ---
 
+
+## Authors
+
+* **Tasnuva Tabassum Oshin** - *Initial work* - [PurpleBooth](https://github.com/TasnuvaOshin)
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* For any Query Email Me - tasnuva.oshin12@gmail.com
+* My Youtube Channel  - https://www.youtube.com/channel/UCf_kr77VNwQBTG2Xy1EBCkw
+* Thanks
