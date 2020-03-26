@@ -2,7 +2,7 @@
 You can Create a excel File From Android Studio ---
 
 
-##Easy Steps  ---------------- Step 1---------
+## Easy Steps  ---------------- Step 1---------
 
 Download this Jxl Library File  
 
@@ -28,7 +28,7 @@ Add MultiDex in your build.gradle file (Module app)
 
 <br>
 
-#########################################################################################################
+
 
 
 
@@ -85,13 +85,10 @@ Add MultiDex in your build.gradle file (Module app)
 
 
 
-#####################################################################################################################
-
-##---------Step 3 ---------------------------------
+## ---------Step 3 ---------------------------------
 
 
-*Add this Permission Into your Manifest File :
-###############################################################################################################
+* Add this Permission Into your Manifest File :
 
  ## Code
 ```java
@@ -104,7 +101,7 @@ Add MultiDex in your build.gradle file (Module app)
 
 ---
     
-  ####################################################################################################################
+ 
 ## ------------Step 4 -----------------   
 
 *Now Checkout the MainActivity.java file ---------You can able to Create Your #Excel File Into Your Device Extralnal or Internal Storage 
@@ -115,7 +112,6 @@ Add MultiDex in your build.gradle file (Module app)
 > Dont Forget To Use Permission . Without Permission it will not work .
 
 
-###########################################################################################################################
  
  
  
