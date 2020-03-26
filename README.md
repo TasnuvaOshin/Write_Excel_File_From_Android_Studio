@@ -157,7 +157,7 @@ Add MultiDex in your build.gradle file (Module app)
 
 ## Authors
 
-* **Tasnuva Tabassum Oshin** - *Initial work* - [PurpleBooth](https://github.com/TasnuvaOshin)
+* **Tasnuva Tabassum Oshin** - *Initial work* - [IDevelopApps](https://github.com/TasnuvaOshin)
 
 
 ## License
